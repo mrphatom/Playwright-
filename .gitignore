@@ -1,0 +1,15 @@
+Environments
+.env
+venv/
+env/
+pycache/
+Docker
+.dockerignore
+Screenshots / Downloads
+*.png
+*.jpg
+*.pdf
+downloads/
+IDEs
+.vscode/
+.idea/

@@ -1,4 +1,4 @@
-# 🤖 TeleScout AI: Advanced Web Automation Bot
+# 🤖 Playwright-tg: Advanced Web Automation Bot
 
 ![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-Pipeline-blue?logo=githubactions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)

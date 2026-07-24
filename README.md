@@ -4,7 +4,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Google_Gemini-1.5_Flash-8E44AD?logo=googlegemini&logoColor=white)
 
-TeleScout is an enterprise-grade, asynchronous Telegram automation agent. It fuses Playwright's headless browsing capabilities with Google Gemini 1.5 Flash, allowing you to control browser sessions, extract structured data via AI, bypass CAPTCHAs, and save login sessions—all via natural language commands in Telegram.
+Playwright-tg is an enterprise-grade, asynchronous Telegram automation agent. It fuses Playwright's headless browsing capabilities with Google Gemini 1.5 Flash, allowing you to control browser sessions, extract structured data via AI, bypass CAPTCHAs, and save login sessions—all via natural language commands in Telegram.
 
 ---
 
